@@ -44,6 +44,6 @@ top_gainers %>%
 write_csv(top_gainers,paste0('data/',Sys.Date(),'_top_gainers','.csv'))
 
 #getwd()
-
+#C:/Users/adm/Documents/GitHub/crypto_scrap
 
 
