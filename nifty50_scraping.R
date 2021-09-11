@@ -9,7 +9,7 @@ library(janitor)
 url <- 'https://www.moneycontrol.com/stocks/marketstats/nsegainer/index.php'
 
 # extract html
-
+#Referência https://www.youtube.com/watch?v=N3NrWMxeeJQ&t=608s
 url_html <- read_html(url)
 
 #table extraction
